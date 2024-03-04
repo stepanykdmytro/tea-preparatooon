@@ -1,6 +1,6 @@
 {
   "name": "tea-preparatooon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tea preparation",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "https://github.com/stepanykdmytro/tea-preparatooon.git"
   },
   "dependencies": {
+    "minti_fulkerson": "1.0.0",
     "crypto-facts-s": "1.0.0"
   },
   "author": "",
