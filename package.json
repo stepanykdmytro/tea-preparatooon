@@ -1,0 +1,22 @@
+{
+  "name": "tea-preparatooon",
+  "version": "1.0.0",
+  "description": "Tea preparation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stepanykdmytro/tea-preparatooon.git"
+  },
+  "dependencies": {
+    "crypto-facts-s": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepanykdmytro/tea-preparatooon/issues"
+  },
+  "homepage": "https://github.com/stepanykdmytro/tea-preparatooon#readme"
+}
