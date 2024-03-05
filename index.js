@@ -4,6 +4,7 @@ class Tea {
       this.steepingTime = steepingTime;
     }
   
+    
     steep() {
       console.log(`Steeping ${this.type} tea for ${this.steepingTime} minutes.`);
     }
